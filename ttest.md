@@ -1,7 +1,7 @@
     plot(extra ~ group, data = sleep)
 
-![](ttest_files/figure-markdown_strict/unnamed-chunk-1-1.png) Student's
-t-test or t-test (the real name is W.S. Gossett who hid his name due to
+![](https://github.com/MontseFigueiro/TtestR/blob/master/unnamed-chunk-1-1.png) 
+Student's t-test or t-test (the real name is W.S. Gossett who hid his name due to
 his position as a worker in a brewery company) is a simple yet very
 useful statistical test. The basic idea behind t-test is the inference
 problem from a small sample size data set to test whether its sample
